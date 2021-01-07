@@ -1,2 +1,5 @@
 branch1  
 合并到了master
+branch1
+冲突处理
+
